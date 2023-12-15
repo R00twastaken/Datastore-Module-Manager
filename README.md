@@ -2,7 +2,7 @@
 
 This module provides a set of functions to interact with any Datastore Module.
 
-Link: https://create.roblox.com/marketplace/asset/13715076011/Datastore-Module-Manager
+
 
 ## Usage
 
